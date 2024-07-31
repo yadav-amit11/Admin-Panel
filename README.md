@@ -7,7 +7,7 @@ Welcome to the React-based Admin Dashboard Panel. This project is a responsive a
 Screenshot
 ![reactt](https://github.com/user-attachments/assets/db9f8131-0b01-46b1-89fe-cd36809a3128)
 
-Check out the live demo of the application here - [Live Demo](https://669425ec4b9eb4a962f31b9a--jovial-concha-0c5615.netlify.app/)
+Check out the live demo of the application here at Netlify - [Live Demo](https://669425ec4b9eb4a962f31b9a--jovial-concha-0c5615.netlify.app/)
 
 ## Features
 
@@ -46,8 +46,3 @@ Check out the live demo of the application here - [Live Demo](https://669425ec4b
 - **Bar Graph**: View the distribution of product sales over a selected period.
 - **Histogram**: Analyze customer interaction data.
 - **Pie Chart**: Visualize the usage distribution of different products.
-
-## Acknowledgements
-
-- Thanks to the developers and contributors of the open-source projects that made this project possible.
-- Special thanks to the React, TypeScript, Material-UI, and Recharts communities for their invaluable resources and support.
